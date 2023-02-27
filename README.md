@@ -6,7 +6,7 @@ I'm a third-year Computer Science student at the University of Victoria. My expe
 
 ---
 
-### 🧰 Languages & Tools
+### 🛠️ Languages & Tools
 <p>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -31,7 +31,7 @@ I'm a third-year Computer Science student at the University of Victoria. My expe
 <br>
 </p>
 
-<br>&nbsp;
+
 
 ---
 
