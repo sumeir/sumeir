@@ -6,7 +6,7 @@ I'm a third-year Computer Science student at the University of Victoria. My expe
 
 ---
 
-### Languages & Tools
+### 🧰 Languages & Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -28,3 +28,15 @@ I'm a third-year Computer Science student at the University of Victoria. My expe
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<br>
+
+---
+
+### 🔗 Links
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/sumeir)
+![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/sumeir)
+![Website](https://img.shields.io/badge/Website-a69711?style=for-the-badge&link=https://sumeir.dev)
+![Email](https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mail@sumeir.dev)
+
+
