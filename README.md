@@ -37,7 +37,7 @@ I'm a third-year Computer Science student at the University of Victoria. My expe
 
 ### 🔗 Links
 <p>
-    <a href="https://linkedin.com/in/sumeir"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://linkedin.com/in/sumeir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/sumeir"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://sumeir.dev"><img src="https://img.shields.io/badge/Website-a69711?style=for-the-badge" alt="Website"></a>
     <a href="mailto:mail@sumeir.dev"><img src="https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"></a>
