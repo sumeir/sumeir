@@ -30,7 +30,7 @@ I'm a third-year Computer Science student at the University of Victoria. My expe
 <img align="left" alt="Linux" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 
-<br>
+<br />
 
 ---
 
