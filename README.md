@@ -2,7 +2,7 @@
 
 **`Software Engineer (Full-Stack) | CS Student at UVic`**
 
-I'm a third-year Computer Science student at the University of Victoria. My experiences include working with front-end tools including TypeScript, React, and Svelte; back-end tools and OOP languages such as Java, C++, and Grails; scripting languages such as Python & Bash, relational databases; and testing tools (JUnit, Selenium, Mockito, and TestComplete). I like solving complex, real-world problems with code and building clean, high-performace, scalable solutions. Apart from writing code, I'm exploring other areas such as DevOps, Cloud, and AI.
+I'm a third-year Computer Science student at the University of Victoria. My experiences include working with front-end tools including TypeScript, React, and Svelte; back-end tools and OOP languages such as Java, C++, and Groovy; scripting languages such as Python & Bash, relational databases; and testing tools (JUnit, Selenium, Mockito, and TestComplete). I like solving complex, real-world problems with code and building clean, high-performace, scalable solutions. Apart from writing code, I'm exploring other areas such as DevOps, Cloud, and AI.
 
 ---
 
